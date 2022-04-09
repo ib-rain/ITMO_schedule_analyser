@@ -1,5 +1,5 @@
 # ITMO_schedule_analyser
-Code part of my Bachelor's Thesis.
+ITMO CS BSc thesis code.
 
 ![Code scheme.](https://github.com/ib-rain/ITMO_schedule_analyser/blob/master/scheme.png)
 Скрипт работает в 4 этапа, соответствующих файлам с Python-кодом.
